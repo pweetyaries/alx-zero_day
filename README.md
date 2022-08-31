@@ -1,2 +1,2 @@
 my first readme
-updated reade
+updated readme
